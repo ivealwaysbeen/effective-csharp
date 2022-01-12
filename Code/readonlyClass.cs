@@ -12,7 +12,7 @@ namespace Code
         //컴파일타임 상수
         public const int const_number = 100;
         //내장 자료형이 아니므로 에러
-        public const DummyClass dummy = new DummyClass(); //error
+        //public const DummyClass dummy = new DummyClass(); //error
 
 
         //런타임 상수
