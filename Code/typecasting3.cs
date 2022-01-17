@@ -12,7 +12,7 @@ namespace Code
                 return 3;
             }
         }
-        public static async void Start()
+        public static void Start()
         {
             object o = Factory.GetValue();
 

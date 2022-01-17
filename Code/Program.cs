@@ -21,7 +21,7 @@ class Program
 
     static void Main(string[] args)
     {
-        Code.VarClass.Start();
+        Code.stringInterpolation2.Start();
 
     }   
 }
