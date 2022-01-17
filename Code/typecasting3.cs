@@ -26,7 +26,6 @@ namespace Code
                 Console.WriteLine(i.Value);
 
 
-            
 
         }
     }
