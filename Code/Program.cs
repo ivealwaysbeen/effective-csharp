@@ -21,7 +21,7 @@ class Program
 
     static void Main(string[] args)
     {
-        Code.stringInterpolation2.Start();
+        Code.delegateMulticast.Start();
 
     }   
 }
