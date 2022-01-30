@@ -21,7 +21,7 @@ class Program
 
     static void Main(string[] args)
     {
-        Code.delegateMulticast.Start();
+        Code.boxing.Start();
 
     }   
 }
