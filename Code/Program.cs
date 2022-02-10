@@ -15,8 +15,12 @@ class Program
 
     public static int GetRandom()
     {
+<<<<<<< HEAD
         var random = new Random();
         return random.Next(1,10);
+=======
+        Console.WriteLine("Hello, World!");
+>>>>>>> parent of 7042f98... Program.cs
     }
 
     static void Main(string[] args)
